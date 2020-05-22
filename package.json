@@ -14,8 +14,9 @@
   },
   "devDependencies": {
     "aws-sdk": "^2.680.0",
+    "eslint": "^7.0.0",
     "serverless-bundle": "^1.2.5",
-    "serverless-dotenv-plugin": "^2.1.1",
+    "serverless-dotenv-plugin": "^2.4.2",
     "serverless-offline": "^5.3.3"
   },
   "dependencies": {
